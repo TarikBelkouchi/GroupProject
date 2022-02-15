@@ -1,9 +1,6 @@
-﻿<Properties StartupConfiguration="{AEA17D5E-34E0-4626-9F71-B0B84655560E}|Default">
+﻿<Properties StartupConfiguration="{AE769263-23F6-44C2-A765-7DF2C99B15FB}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="GroupProject/Employee.cs">
-    <Files>
-      <File FileName="GroupProject/Employee.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Employee.cs">
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -22,7 +19,7 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.GroupProject FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.GroupProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
